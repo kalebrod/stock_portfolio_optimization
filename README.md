@@ -24,7 +24,7 @@ O código lê as configurações necessárias a partir de um arquivo YAML chamad
 
 Certifique-se de que o seu arquivo `config.yml` siga a estrutura necessária conforme especificada. Se alguma dessas chaves estiver ausente, o código levantara um erro.
 
-## Coleta e Ingestão do Código
+## Coleta e Ingestão dos Dados
 
 Uma vez que as configurações são lidas, o código inicia a coleta de dados financeiros usando a biblioteca `yfinance` (Yahoo Finance). Ele baixa os preços de fechamento das ações especificadas no intervalo de datas fornecido no arquivo de configuração. Esses preços são usados para calcular os retornos diários das ações, a média dos retornos, a matriz de covariância entre outros insumos.
 
