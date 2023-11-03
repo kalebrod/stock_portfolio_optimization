@@ -1,0 +1,17 @@
+Melhor distribuição dos pesos:
+
+SLCE3.SA: 2.692
+TAEE11.SA: 8.746
+BPAC11.SA: 8.992
+CPLE6.SA: 27.005
+RRRP3.SA: 10.703
+SUZB3.SA: 20.066
+WEGE3.SA: 6.333
+PRIO3.SA: 10.322
+CMIG4.SA: 5.142
+
+Resultados:
+
+Melhor retorno: 0.401240212729485
+Melhor risco: 0.25542489069149305
+Melhor fitness: 0.14581532203799197

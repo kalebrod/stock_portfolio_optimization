@@ -1,0 +1,32 @@
+# Ações que compõem a carteira
+
+acoes:
+- SLCE3.SA
+- TAEE11.SA
+- BPAC11.SA
+- CPLE6.SA
+- RRRP3.SA
+- SUZB3.SA
+- WEGE3.SA
+- PRIO3.SA
+- CMIG4.SA
+
+# Periodo de analise 
+# Utilize o formato AAAA-MM-DD
+
+inicio: '2018-01-01'
+fim: '2023-03-31'
+
+# Nivel de risco
+
+max_risk: 0.3
+
+# Quantidade maxima de iterações (steps)
+
+qtd_iteracoes: 1000
+
+# Parametros do algoritmo
+
+temperatura_max: 2500
+temperatura_min: 1
+alpha: 0.1
